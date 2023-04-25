@@ -19,4 +19,7 @@ b) Loss and accuracy for each epoch is recorded.
 ### Evaluation of Model
 Model is evaluated using test data loader and test accuracy is computed.
 ### Plotting
-Loss and accuracy history for both training and test sets are plotted using 'matplotkib'
+Loss and accuracy history for both training and test sets are plotted using 'matplotlib'
+
+## Run the below command to execute the python scripts
+<code> python train.py </code>
