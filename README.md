@@ -15,3 +15,8 @@ a) A simple feedforward neural network is defined with one hidden layer, dropout
 b) Cross Entropy Loss and Adam optimizer is used.<br>
 ### Model Training 
 a) Model is trained for a specified number of epochs.<br>
+b) Loss and accuracy for each epoch is recorded.
+### Evaluation of Model
+Model is evaluated using test data loader and test accuracy is computed.
+### Plotting
+Loss and accuracy history for both training and test sets are plotted using 'matplotkib'
